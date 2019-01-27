@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wpedantic -Wshadow -Wundef -Wno-missing-field-initializers   CMakeFiles/wineMain.dir/src/base.cpp.o CMakeFiles/wineMain.dir/src/wine.cpp.o CMakeFiles/wineMain.dir/src/wineMain.cpp.o  -o wineMain -rdynamic 
